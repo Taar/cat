@@ -1,0 +1,7 @@
+[package]
+name = "cat"
+version = "0.0.1"
+authors = ["Randy Topliffe <randytopliffe@gmail.com>"]
+
+[dependencies]
+rand = "0.3.0"
